@@ -1,1 +1,4 @@
 test
+Pushing not working
+Currently using github desktop for personal account
+school account on terminal
